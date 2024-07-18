@@ -1,3 +1,3 @@
 # myproject
 hello world
-<small>hello this is repo is created by me</small>
+<h1>hello this is repo is created by me</h1>
